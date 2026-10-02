@@ -544,6 +544,7 @@ footer {
 
   .contact-box {
     display: block;
+     gap: 30px;
   }
 
   .contact-box .btn {
